@@ -1,4 +1,4 @@
-# PROJETO-EDA--ANALISES-DE-EVASAO-DE-CARTAO-DE-CREDITOS
+# PROJETO-EDA--ANALISES-DE-CHURN DE CLIENTES-DE-CARTAO-DE-CREDITOS
 Identificando os reais motivos que causou o cancelamentos dos serviços de cartão de crédito
 
 ## INTRODUÇÃO
